@@ -1,0 +1,2 @@
+# Social-Engineering-in-cyber-security-effect-mechanisms-human-vulnerabilities-and-attack-methods-
+This project proposes a conceptual model which provides an integrative and structural perspective to describe how social engineering attacks work. Three core entities (effect mechanism, human vulnerability and attack method) are identified to help the understanding of how social engineering attacks take effect.
